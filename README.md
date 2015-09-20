@@ -3,7 +3,8 @@
 
 Android app to gamify shared group tasks between roommates. Uses Firebase backend.
 
-Rules :
+Rules : 
+
 1. Each member in a group start with equal points. 
 
 2. Each group agrees on a set of common tasks to the group and associates points to the task. 
